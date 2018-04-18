@@ -1,6 +1,6 @@
 # Amazon-Alexa-Skill
 workspace until skill is completed
 
-#Alexa, motivate my day.
+#Alexa, what is there to do.
 
-will read off a random quote from either a cloud based list or reddit.com/r/GetMotivated
+will list off multiple upcoming events near the user's city/zip code
